@@ -1,7 +1,4 @@
 
-markdown
-Copy
-Edit
 # 📈 Smart Loan Recovery
 
 A data-driven project analyzing loan repayment patterns, segmenting customers based on income and loan size, and predicting loan recovery using machine learning.
