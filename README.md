@@ -47,21 +47,4 @@ This project aims to help financial institutions improve their loan recovery pro
    ```bash
    git clone https://github.com/yourusername/Smart_Loan_Recovery.git
    cd Smart_Loan_Recovery
-Install dependencies:
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Launch Jupyter Notebook:
-
-bash
-Copy
-Edit
-jupyter notebook Smart_Loan_Recovery.ipynb
-💡 Future Enhancements
-Integrate additional features (e.g. credit history, payment consistency).
-
-Explore ensemble methods and deep learning models.
-
-Deploy as a real-time API service for financial institutions.
